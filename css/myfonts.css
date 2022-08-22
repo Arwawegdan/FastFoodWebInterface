@@ -1,0 +1,12 @@
+@font-face{
+    font-family: burgerbun;
+    src:url(../fonts/MontHeavyDEMO.otf);
+}
+@font-face{
+    font-family: myfont2;
+    src: url(../fonts/Extreme.ttf);
+}
+@font-face{
+    font-family: myfont3;
+    src: url(../fonts/ExtremeFilled.ttf); 
+}
